@@ -441,7 +441,7 @@ code {
 #sidebar {
   background: #191919;
   color: #fff;
-  float: left;  
+  float: left;
   height: 100%;
   overflow: auto;
   position: fixed;
@@ -577,38 +577,38 @@ code {
 }
 
 /* GET */
-#content article.GET a h2 code {
+#content article.matlab a h2 code {
   color: #119bdf;
 }
 
-#content article.GET a h2 code b {
+#content article.matlab a h2 code b {
   background: #119bdf;
 }
 
 /* POST */
-#content article.POST a h2 code {
+#content article.python a h2 code {
   color: #52ce0e;
 }
 
-#content article.POST a h2 code b {
+#content article.python a h2 code b {
   background: #52ce0e;
 }
 
 /* PUT */
-#content article.PUT a h2 code {
+#content article.fortran a h2 code {
   color: #e08f10;
 }
 
-#content article.PUT a h2 code b {
+#content article.fortran a h2 code b {
   background: #e08f10;
 }
 
 /* DELETE */
-#content article.DELETE a h2 code {
+#content article.js a h2 code {
   color: #e02a10;
 }
 
-#content article.DELETE a h2 code b {
+#content article.js a h2 code b {
   background: #e02a10;
 }
 
