@@ -1,7 +1,7 @@
 ---
 exclude: ['README.markdown']
 permalink: ':title'
-pygments: true
+highlighter: true
 safe: false
-title: 'Carte'
-baseurl: /carte
+title: 'snippets'
+baseurl: /snippets
